@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    margin-left: 500px;
+}
+.button2{
+    margin-left: 10px;
+}
+.button3{
+    margin-left: 10px;
+}
+.section1{
+    background-image: url(https://s.rozee.pk/v6/i/banner_bg.webp);
+    background-size: contain;
+    height: 500px;
+}
